@@ -1,0 +1,37 @@
+{
+    "name": "ssiapp/_laravel_base",
+    "description": "Laravel Core",
+    "keywords": ["core", "laravel"],
+    "type": "library",
+    "require": {
+        "fideloper/proxy": "~3.3",
+        "laravel/framework": "5.5.*",
+        "laravel/tinker": "~1.0",
+
+        "barryvdh/laravel-cors": "*",
+        "dingo/api": "2.0.0-alpha1",
+        "tymon/jwt-auth": "1.0.*",
+        "league/fractal": "*",
+        "zircote/swagger-php":"*",
+        "zizaco/entrust": "5.2.x-dev",
+
+        "intervention/image": "2.*",
+        "guzzlehttp/guzzle": "~6.0",
+        "symfony/dom-crawler": "*",
+        "baum/baum": "~1.1",
+        "lavary/laravel-menu": "*",
+        "mews/captcha": "^2.1",
+        "maatwebsite/excel": "~3.0",
+        "overtrue/wechat": "dev-master"
+    },
+    "require-dev": {
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "ray",
+            "email": "ray@ssiapp.com"
+        }
+    ],
+    "homepage": "http://www.ssiapp.com"
+}
