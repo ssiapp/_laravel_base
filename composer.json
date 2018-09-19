@@ -23,7 +23,8 @@
         "lavary/laravel-menu": "~1.7",
         "mews/captcha": "~2.2",
         "maatwebsite/excel": "~3.0",
-        "overtrue/wechat": "~4.0"
+        "overtrue/wechat": "~4.0",
+        "jenssegers/agent": "^2.6"
     },
     "require-dev": {
     },
