@@ -40,13 +40,12 @@
         "symfony/thanks": "^1.0",
         
         "chumper/zipper": "1.0.x",
-        "laravel/dusk": "^1.0",
-        "barryvdh/laravel-ide-helper": "2.4.x",
-        "barryvdh/laravel-debugbar": "~3.1",
+        "laravel/dusk": "~1.0",
+        "barryvdh/laravel-debugbar": "~3.2",
+        "barryvdh/laravel-ide-helper": "~2.6",
 
         "infyomlabs/adminlte-templates": "5.5.x-dev",
-        "infyomlabs/laravel-generator": "5.5.x-dev",
-        "infyomlabs/swagger-generator": "dev-master"
+        "infyomlabs/laravel-generator": "5.5.x-dev"
     },
     "license": "GPL",
     "authors": [
